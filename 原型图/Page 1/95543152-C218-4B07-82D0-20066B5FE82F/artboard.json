@@ -1,0 +1,140 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9450980392156862,
+    "green": 0.9450980392156862,
+    "red": 0.9450980392156862
+  },
+  "do_objectID": "95543152-C218-4B07-82D0-20066B5FE82F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1781,
+    "width": 1440,
+    "x": 3108,
+    "y": -15
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      1200,
+      199
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "89341C5E-B22C-48CE-A272-A21724F5F829"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F8C64FC9-1C9A-4E2A-9915-18C71DB5849B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "781769AA-C6DA-47D3-8ABD-D306A533FBDC"
+    },
+    {
+      "class": "text",
+      "id": "CEE1AB15-617A-47AE-ACAC-3EF3F822CD72"
+    },
+    {
+      "class": "text",
+      "id": "A783899B-62DE-4E25-B369-AEFC2D81BDB9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BA994D01-3771-441D-BDBC-4AA057F7988F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F473845C-2FCC-4F49-9F39-3F25AA8B81B9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3947B339-40A1-4D0A-A854-42D984DE2300"
+    },
+    {
+      "class": "text",
+      "id": "EB183728-8F7D-4610-9ECA-87CEDA55CD39"
+    },
+    {
+      "class": "text",
+      "id": "2044F214-9EC0-4C26-9A25-F6B5372AB80B"
+    },
+    {
+      "class": "text",
+      "id": "1099FCE5-54E5-4019-BEDE-95F1C925864A"
+    },
+    {
+      "class": "text",
+      "id": "20A8C826-B9F0-4BA4-871D-BCE15438A692"
+    }
+  ],
+  "name": "路加文化",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
