@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 3,
+  "changeIdentifier": 200,
   "do_objectID": "BBB0B069-DB59-49D1-94B0-83554061125C",
   "exportOptions": {
     "_class": "exportOptions",
@@ -42,11 +42,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
       "id": "6E49FEBD-765A-420C-9072-CB4927E310DF"
+    },
+    {
+      "class": "text",
+      "id": "67F4A96A-8775-4B0F-AC00-F9E8ECD0CEDC"
     }
   ],
   "name": "footer",
@@ -63,6 +67,11 @@
     "startDecorationType": 0
   },
   "symbolID": "EB015ABF-23B5-409B-8F27-CAB2695EA5E5",
+  "userInfo": {
+    "io.magicsketch.mirror": {
+      "highestQuality": -1
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

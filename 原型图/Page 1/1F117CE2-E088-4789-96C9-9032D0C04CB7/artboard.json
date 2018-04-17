@@ -69,15 +69,15 @@
       "id": "9694E8F8-DE90-45C7-910D-EE6F1C2E77C7"
     },
     {
-      "class": "shapeGroup",
-      "id": "9B364F18-6EF5-48F8-9AF0-D1768C7FB86A"
+      "class": "group",
+      "id": "2238D1C4-4E2F-4512-8E23-3331C3CCA312"
     },
     {
       "class": "group",
-      "id": "A1DA9C4F-1BED-4512-BA9E-08F44564B4A3"
+      "id": "00F15BD0-86C7-4324-8D51-1A0B1B47180D"
     }
   ],
-  "name": "公司介绍",
+  "name": "公司介绍-公司简介",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
@@ -114,6 +114,11 @@
     ],
     "miterLimit": 10,
     "startDecorationType": 0
+  },
+  "userInfo": {
+    "io.magicsketch.mirror": {
+      "highestQuality": -1
+    }
   },
   "verticalRulerData": {
     "_class": "rulerData",

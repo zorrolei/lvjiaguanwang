@@ -23,7 +23,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
@@ -76,30 +76,6 @@
     {
       "class": "text",
       "id": "D022412C-B57C-4078-8FB1-C8946701B14E"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "B7F26179-9049-42EC-B1D6-105992C3CD4A"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "B0BB0CEE-4BF0-46F7-907F-BF06CF58A733"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "CBE27038-AC9D-4CF2-94D7-3B0C0483A0FB"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "405EDA16-31C6-4267-92AD-E2D6D440C942"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "F41FCE49-0F2D-41DC-991C-2725E75573DB"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "ECFE5B76-B264-4221-928D-6F585198E09E"
     }
   ],
   "name": "footer",

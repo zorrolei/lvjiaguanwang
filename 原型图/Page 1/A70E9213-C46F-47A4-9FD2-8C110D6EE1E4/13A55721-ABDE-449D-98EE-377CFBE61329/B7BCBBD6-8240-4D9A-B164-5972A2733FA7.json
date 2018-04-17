@@ -1,0 +1,67 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGZ2hYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHgcIDxAcHR4fKywtLi8wMTIzOUNGSUxQWFlaW1xfY1UkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgB2AA2plP3tWZS9jAVKpUptPAU4aU9FcVdMREgoTFxtXTlMua2V5c1pOUy5vYmplY3RzoxQVFoAEgAWABqMYGRqAB4ARgBWAEF8QKk1TQXR0cmlidXRlZFN0cmluZ0NvbG9yRGljdGlvbmFyeUF0dHJpYnV0ZV8QEE5TUGFyYWdyYXBoU3R5bGVfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRl0xESCiAlG6QhIiMkgAiACYAKgAukJicoKYAMgA2ADoAPgBBTcmVkVWFscGhhVGJsdWVVZ3JlZW4jP9KS/cAAAAAjP/AAAAAAAAAjP9KTQCAAAAAjP9KSO2AAAAHSNDU2N1okY2xhc3NuYW1lWCRjbGFzc2VzXE5TRGljdGlvbmFyeaI2OFhOU09iamVjdNU6Cjs8PT4/QEFAWk5TVGFiU3RvcHNcTlNUZXh0QmxvY2tzXxAfTlNBbGxvd3NUaWdodGVuaW5nRm9yVHJ1bmNhdGlvbltOU1RleHRMaXN0c4AAgBSAEhABgBLSEgpERaCAE9I0NUdIV05TQXJyYXmiRzjSNDVKS18QEE5TUGFyYWdyYXBoU3R5bGWiSjjSCk1OT18QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgByAFtMREgpRVFeiUlOAF4AYolVWgBmAGoAbXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQDAAAAAAAABfEBFQaW5nRmFuZ1NDLU1lZGl1bdI0NV1eXxATTlNNdXRhYmxlRGljdGlvbmFyeaNdNjjSNDVgYV8QEE5TRm9udERlc2NyaXB0b3KiYjhfEBBOU0ZvbnREZXNjcmlwdG9y0jQ1ZGVfEBJOU0F0dHJpYnV0ZWRTdHJpbmeiZjhfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRaWpUcm9vdIABAAgAEQAaACMALQAyADcAWABeAGUAbgB1AIIAhACGAIgAnQCkAKwAtwC7AL0AvwDBAMUAxwDJAMsAzQD6AQ0BLwE2ATsBPQE/AUEBQwFIAUoBTAFOAVABUgFWAVwBYQFnAXABeQGCAYsBkAGbAaQBsQG0Ab0ByAHTAeACAgIOAhACEgIUAhYCGAIdAh4CIAIlAi0CMAI1AkgCSwJQAm0CbwJxAngCewJ9An8CggKEAoYCiAKeArQCvQLRAtYC7ALwAvUDCAMLAx4DIwM4AzsDUANiA2UDagAAAAAAAAIBAAAAAAAAAGsAAAAAAAAAAAAAAAAAAANs"
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "B7BCBBD6-8240-4D9A-B164-5972A2733FA7",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 22,
+    "width": 160,
+    "x": 37,
+    "y": 24
+  },
+  "glyphBounds": "{{0, 3}, {160, 16}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "政策支持助力企业发展",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringColorDictionaryAttribute": {
+          "alpha": 1,
+          "blue": 0.2902374565601349,
+          "green": 0.2901752889156342,
+          "red": 0.290221631526947
+        },
+        "MSAttributedStringFontAttribute": {
+          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAMAAAAAAAAF8QEVBpbmdGYW5nU0MtTWVkaXVt0hwdHh9aJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjHiAhXE5TRGljdGlvbmFyeVhOU09iamVjdNIcHSMkXxAQTlNGb250RGVzY3JpcHRvcqIlIV8QEE5TRm9udERlc2NyaXB0b3JfEA9OU0tleWVkQXJjaGl2ZXLRKClUcm9vdIABAAgAEQAaACMALQAyADcAQQBHAEwAUwBwAHIAdAB7AIMAjgCRAJMAlQCYAJoAnACeALQAygDTAOcA7AD3AQABFgEaAScBMAE1AUgBSwFeAXABcwF4AAAAAAAAAgEAAAAAAAAAKgAAAAAAAAAAAAAAAAAAAXo="
+        },
+        "paragraphStyle": {
+          "_archive": "YnBsaXN0MDDUAQIDBAUGICFYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKUHCBMXHVUkbnVsbNUJCgsMDQ4PEBEQWk5TVGFiU3RvcHNWJGNsYXNzXE5TVGV4dEJsb2Nrc18QH05TQWxsb3dzVGlnaHRlbmluZ0ZvclRydW5jYXRpb25bTlNUZXh0TGlzdHOAAIAEgAIQAYAC0hQKFRZaTlMub2JqZWN0c6CAA9IYGRobWiRjbGFzc25hbWVYJGNsYXNzZXNXTlNBcnJheaIaHFhOU09iamVjdNIYGR4fXxAQTlNQYXJhZ3JhcGhTdHlsZaIeHF8QD05TS2V5ZWRBcmNoaXZlctEiI1Ryb290gAEACAARABoAIwAtADIANwA9AEMATgBZAGAAbQCPAJsAnQCfAKEAowClAKoAtQC2ALgAvQDIANEA2QDcAOUA6gD9AQABEgEVARoAAAAAAAACAQAAAAAAAAAkAAAAAAAAAAAAAAAAAAABHA=="
+        }
+      },
+      "verticalAlignment": 0
+    }
+  },
+  "textBehaviour": 0
+}
