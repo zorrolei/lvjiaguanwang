@@ -23,7 +23,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapeGroup",
@@ -31,7 +31,7 @@
     },
     {
       "class": "bitmap",
-      "id": "E236CCDE-A1F1-4EC0-BCB9-799C4A80A837"
+      "id": "D88FE415-D0C0-4D2A-8489-EF379677FE23"
     }
   ],
   "name": "500419137_banner",
